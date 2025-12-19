@@ -1,4 +1,11 @@
-<img width="340" height="340" alt="image" src="https://github.com/user-attachments/assets/b824638f-097f-4714-b5da-a024099431a4" />
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/b824638f-097f-4714-b5da-a024099431a4"
+    alt="Cisco"
+    width="300"
+    height="300"
+  />
+</p>
 
 
 
